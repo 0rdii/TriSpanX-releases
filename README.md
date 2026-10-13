@@ -11,11 +11,16 @@ extendido a **tres monitores (×3)**, sin cambiar la resolución.
 
 Ve a **[Releases](../../releases/latest)** y descarga:
 
-- **`TriSpanX.exe`** — ligero (menos de 1 MB). Necesita el
-  [.NET Desktop Runtime 10](https://dotnet.microsoft.com/download/dotnet/10.0) (Windows te lo pide si falta).
+- **`TriSpanX-Installer.exe`** — **recomendado.** Instala TriSpanX sin pedir administrador, crea los accesos
+  directos y, si hace falta, instala el .NET Desktop Runtime 10 de Microsoft.
+- **`TriSpanX.exe`** — solo el programa (menos de 1 MB). Necesita el
+  [.NET Desktop Runtime 10](https://dotnet.microsoft.com/download/dotnet/10.0).
 - **`TriSpanX-portable.exe`** — no necesita instalar nada.
 
 TriSpanX **se actualiza solo** al arrancar.
+
+> Al abrir el instalador, Windows puede mostrar «Windows protegió su PC» porque aún no está firmado:
+> pulsa **Más información → Ejecutar de todas formas**.
 
 ## Características
 
