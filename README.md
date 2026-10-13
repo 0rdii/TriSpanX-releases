@@ -5,6 +5,8 @@
 Pon cualquier juego o programa en ventana sin bordes a pantalla completa, en la pantalla que quieras o
 extendido a **tres monitores (×3)**, sin cambiar la resolución.
 
+![TriSpanX](docs/captura.png)
+
 ## Descargar
 
 Ve a **[Releases](../../releases/latest)** y descarga:
